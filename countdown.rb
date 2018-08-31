@@ -7,3 +7,4 @@ def countdown(Times)
   until Times == 0
       puts "HAPPY NEW YEAR!"
   end
+end
