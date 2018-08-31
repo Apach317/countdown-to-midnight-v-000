@@ -15,6 +15,7 @@ end
 def countdown_with_sleep(secs)
   secs == 5
     while secs > 0
+      return true
       secs -= 1
     end
 end
