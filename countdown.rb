@@ -1,8 +1,8 @@
 #write your code here
-Times == 30
+Time == 30
 
 def countdown
-  while Times > 0
-    puts "#{Times} SECOND(S)!"
+  while Time > 0
+    puts "#{Time} SECOND(S)!"
   end
 end
