@@ -1,7 +1,7 @@
 #write your code here
 
 
-def countdown
+def countdown(secs)
   secs == 10
     while secs > 0
       puts "#{secs} SECOND(S)!"
@@ -13,3 +13,4 @@ def countdown
 end
 
 def countdown_with_sleep(secs)
+end
