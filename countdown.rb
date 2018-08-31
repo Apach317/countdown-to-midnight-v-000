@@ -1,7 +1,7 @@
 #write your code here
-Time == 30
+Times == 30
 
-def countdown(Time)
+def countdown(Times)
   while Time > 0
     puts "#{Time} SECOND(S)! "
     until Time == 0
