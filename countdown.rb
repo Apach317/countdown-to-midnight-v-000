@@ -2,8 +2,8 @@
 Times == 30
 
 def countdown(Times)
-  while Time > 0
+  while Times > 0
     puts "#{Time} SECOND(S)!"
-    until Time == 0
+  until Times == 0
       puts "HAPPY NEW YEAR!"
   end
