@@ -3,6 +3,6 @@ Times == 30
 
 def countdown
   while Times > 0
-    puts "#{Time} SECOND(S)!"
+    puts "#{Times} SECOND(S)!"
   end
 end
