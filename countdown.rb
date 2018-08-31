@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown
-  secs == 30
+  secs = 30
 
   while secs > 0
     puts '#{secs} SECOND(S)!'
