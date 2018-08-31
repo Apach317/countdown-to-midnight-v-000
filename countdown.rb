@@ -12,9 +12,6 @@ def countdown(secs)
   end
 end
 
-def countdown_with_sleep(num_secs)
-  num_secs == 5
-    while num_secs > 0
-      num_secs -= 1
-    end
+def countdown_with_sleep(secs)
+  sleep 5
 end
